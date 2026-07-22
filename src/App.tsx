@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import Starfield from './components/Starfield';
 import Cursor from './components/Cursor';
 import IntroOverlay from './components/IntroOverlay';
@@ -85,6 +86,9 @@ export default function App() {
 
       {/* Footer component */}
       <Footer setActivePage={setActivePage} />
+
+      {/* Vercel Web Analytics */}
+      <Analytics />
     </div>
   );
 }
