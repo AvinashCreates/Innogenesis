@@ -45,7 +45,7 @@ export const OFFICIAL_LINKS = {
   instagramUni: 'https://www.instagram.com/nriuniversity_ap?igsh=MWMxZzhuOXgxeGgzaQ==',
   linkedin: 'https://www.linkedin.com/company/school-of-computer-studies-cse-dr-rvr-nriit-dtbu/',
   whatsappGroup: 'https://chat.whatsapp.com/GccBINKXcfoJxlnoEme0e0',
-  brochure: '/Brochure.jpeg',
+  brochure: '/Brochure_New.jpeg',
   registrationForm: 'https://docs.google.com/forms/d/e/1FAIpQLSeabndg3PMclRkptuaBg8ArEESos01Dyfmgm6iMD9xS3Vp79Q/viewform'
 };
 
